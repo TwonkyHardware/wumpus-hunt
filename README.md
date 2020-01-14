@@ -1,2 +1,2 @@
 # wumpus-hunt
-Implement the game "Hunt the Wumpus" in Python
+Implement the text-based game "Hunt the Wumpus" (https://en.wikipedia.org/wiki/Hunt_the_Wumpus) in Python.
